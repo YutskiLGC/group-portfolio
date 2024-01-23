@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box
+}
+
+body {
+    margin: 0;
+}
+
+.nav {
+    background-color: #333;
+    color: white;
+    display: flex;
+    justify-content: normal;
+    align-items: center;
+    gap: 2rem;
+    padding: 0 1rem
+}
+.nav a {
+    color: inherit
+}
+.nav li {
+display: inline;
+gap: 6rem;
+padding: 0 9rem
+}
