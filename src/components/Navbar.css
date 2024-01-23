@@ -16,7 +16,7 @@ body {
     padding: 0 1rem
 }
 .nav a {
-    color: inherit
+    color: inherit;
 }
 .nav li {
 display: inline;
